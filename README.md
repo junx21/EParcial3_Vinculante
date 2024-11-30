@@ -21,8 +21,13 @@ J: Dictar instrucciones para ausencia (25 min)
 K: Reunir documentos (15 min)
 L: Organizar documentos (5 min)
 M: Viajar al aeropuerto y facturar (25 min)
-Dependencias entre tareas:
-Algunas tareas deben ser realizadas antes que otras, por ejemplo, no se puede viajar al aeropuerto antes de haber recogido las maletas. Además, la reserva del vuelo debe completarse antes de recoger el billete, y la preparación del billete debe ocurrir antes de llevar el billete a la oficina.
+
+
+## Dependencias entre tareas:
+
+Algunas tareas deben ser realizadas antes que otras, por ejemplo, no se puede viajar al aeropuerto antes de haber recogido las maletas.
+
+Además, la reserva del vuelo debe completarse antes de recoger el billete, y la preparación del billete debe ocurrir antes de llevar el billete a la oficina.
 
 ## Objetivos del Reto:
 Definir el Objetivo del Proyecto: Identificar el propósito principal del proyecto (optimizar la gestión del tiempo para cumplir con el plazo de 100 minutos) y no solo las tareas.
