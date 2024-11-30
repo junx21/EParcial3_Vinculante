@@ -51,3 +51,6 @@ El algoritmo debe gestionar de forma eficiente las dependencias entre las tareas
 ## Entrega:
 Código fuente en C++ que implemente la solución al problema.
 Diagrama de flujo que represente el cronograma de ejecución de las tareas.
+
+
+### El archivo OtraManera, es el código que hicimos en la anterior sesión, pero no esta finalizado.
